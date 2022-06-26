@@ -1,4 +1,4 @@
-## DISCLAIMER: Backend code was written locally and uploaded here at the same time as the frontend code, which was written June 25, 2022 here: https://github.com/davidcarr3ra/sortition_frontend
+## DISCLAIMER: Backend code was written locally and uploaded here on June 26, 2022. The frontend code was also upoaded on June 26, 2022 but it was written on June 25, 2022 here: https://github.com/davidcarr3ra/sortition_frontend 
 
 # ETH NYC 2022 Hackathon
 
