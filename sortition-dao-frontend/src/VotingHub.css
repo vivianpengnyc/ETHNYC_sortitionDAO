@@ -1,0 +1,25 @@
+.body {
+    padding-bottom: 40px;
+}
+
+.requestButton {
+    margin-top: 40px;
+    background-color: #254cdd;
+    color:white;
+}
+
+#walletButton {
+    text-align: right;
+    float:right;
+    margin-bottom: 50px;
+    line-height: 16px;
+}
+
+.VotingHub {
+    max-width: 80vh;
+    max-height: 80vh;
+    padding: 60px 100px;
+    margin: 0 auto;
+    text-align: left;
+  
+}
